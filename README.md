@@ -4,5 +4,5 @@ Social behavioral biometrics in Twitter refers to the analysis of human behavior
 
 ## Repository Contains 
 
-1. /data - It contains datasets of 4 twitter users.
+1. /data - It contains datasets of 4 twitter users. Total Samples: 88,209
 2. /src - It contains code files for 3 algorithms and pre-trained word2vec model which is generated while implemnting the code.
