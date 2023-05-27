@@ -13,6 +13,7 @@ User_Identification_CNN-LSTM.ipynb, User_Identification_CNN.ipynb, User_Identifi
 
 ## Running the code:
 
-1. Run Combining_datsets.py file in /data folder for generating all the twitter data into one csv file.
-2. Update the path of the dataset file name in User_Identification_CNN-LSTM.ipynb, User_Identification_CNN.ipynb, User_Identification_LSTM.ipynb.
-3. Run each file seperatly from src folder in jupyter lab or google colab.
+1. Clone the repository.
+2. Run Combining_datsets.py file in /data folder for generating all the twitter data into one csv file.
+3. Update the path of the dataset file name in User_Identification_CNN-LSTM.ipynb, User_Identification_CNN.ipynb, User_Identification_LSTM.ipynb.
+4. Run each file separately from /src folder in jupyter lab or google colab.
